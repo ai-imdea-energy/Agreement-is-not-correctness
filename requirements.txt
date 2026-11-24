@@ -1,0 +1,15 @@
+# Python 3.12
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+torch==2.14.0
+xgboost==3.4.1
+shap==0.52.0
+holidays==0.104
+tigramite==5.2.10.1      # Part 7
+optuna==5.0.0            # Part 1, hyperparameter search (a random search is used if it is missing)
+ipykernel==7.3.0
+jupyterlab
+# entsoe-py              # optional, Part 5 with an ENTSO-E API key
