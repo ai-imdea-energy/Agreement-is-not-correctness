@@ -81,3 +81,8 @@ The deep plan is a long run. It trains several hundred neural models, and Part 1
 A. J. A. Hijazi, "Agreement Is Not Correctness: Validating Intrinsic and Post-hoc Explanations of
 Electricity Demand Forecasts Against Ground Truth", 2026.
 ```
+## License
+
+The code is released under the MIT License (see `LICENSE`).
+The data in `data/` belongs to its original sources and keeps their terms (see `data/README.md`).
+Part 7 uses tigramite (GPL-3.0). If you use the causal part, please cite the tigramite papers for PCMCI+ and LPCMCI.
