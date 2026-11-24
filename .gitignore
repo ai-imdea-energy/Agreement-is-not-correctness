@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+catboost_info/
+data/portugal/raw/
+results/
+optuna.db
+demo_data/
+*.pt
+*.pkl
+*.npz
+*.zip
